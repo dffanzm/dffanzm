@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://dffanzm.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://dffanzm.io)
 <h1 align="center">Hi 👋, I'm Daffa Najmudin Hanif</h1>
 <h3 align="center">Made with love, shipped with care.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-doing-coding-work-9560195-7793573.mp4")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dffanzm&label=Profile%20views&color=0e75b6&style=flat" alt="dffanzm" /> </p>
