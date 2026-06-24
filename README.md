@@ -95,13 +95,17 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 </div>
 <br>
 
-<div>
-  <a href="https://tiptap.gg/daffadev">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
-  </a>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&redirect=true">
-    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify">
-  </a>
-</div>
-
-<br clear="both" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="middle">
+      <a href="https://tiptap.gg/daffadev">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+      </a>
+    </td>
+    <td width="50%" align="right" valign="middle">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify">
+      </a>
+    </td>
+  </tr>
+</table>
