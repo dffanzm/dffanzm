@@ -126,17 +126,9 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 
 <br>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdjb2lrMGFqMmNvcWxuc25zZ3VpdTRsOG55bzA0bzIxc3lzdmQ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif" width="800" />
-</div>
-
-<br>
-
----
-
 <p align="center">
-  <b>"Talk is cheap. Show me the code."</b><br>
-  Thanks for stopping by! Let's build something awesome together 🚀
+  <b>"Talk is cheap. Show me the code."</b> — <i>Linus Torvalds</i><br><br>
+  Thanks for stopping by! Let's build something awesome together 
 </p>
 
 <br>
