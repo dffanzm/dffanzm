@@ -58,7 +58,7 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flutter,react,kotlin,ts,js,go,laravel,postgres,redis,mongo,express,tailwind,github,astro,vue,docker,gcp,mysql,nextjs,vite,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=py,flutter,react,kotlin,ts,js,go,laravel,postgres,redis,mongo,express,tailwind,github,astro,vue,docker,gcp,mysql,nextjs,vite,vscode,tensorflow,postman,figma,vercel&perline=13" />
   </a>
 </p>
 
