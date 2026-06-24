@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=300&section=header&text=Josh%20The%20Boss&fontSize=90&fontAlignY=38&desc=Life%20%3D%20Love%3B%20for(Life%20in%20Love)%3A%20print(alive)%20else%3A%20print(live)&descAlignY=60&descAlign=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=300&section=header&text=Daffa%20Najmudin&fontSize=80&fontAlignY=38&desc=Life%20%3D%20Love%3B%20for(Life%20in%20Love)%3A%20print(alive)%20else%3A%20print(live)&descAlignY=60&descAlign=62&fontColor=ffffff" />
 </div>
 
 <div align="center">
 
-# Namaste 🙏 I'm Joshua Thadi
+# Namaste 🙏 I'm Daffa Najmudin Hanif
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/JoshuaThadi?color=red&style=flat-square&label=STARS" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/JoshuaThadi?color=blue&style=flat-square&label=FOLLOWERS" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=dffanzm&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/dffanzm?color=red&style=flat-square&label=STARS" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/dffanzm?color=blue&style=flat-square&label=FOLLOWERS" alt="Followers" />
 </p>
 
 ## 💫 About Me
@@ -33,8 +33,8 @@
 ### 🤝 Connect me :
 
 <p align="left">
-  <a href="mailto:thadijoshua@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/joshuathadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:milesyourbae@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/dffanzm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
 </p>
@@ -44,13 +44,13 @@
 ## 📊 Github Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&show_icons=true&theme=nord&hide_border=true&title_color=fff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&layout=compact&theme=nord&hide_border=true&title_color=fff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dffanzm&show_icons=true&theme=nord&hide_border=true&title_color=fff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dffanzm&layout=compact&theme=nord&hide_border=true&title_color=fff" width="48%" />
 </div>
 
 <br>
 
-## 🛠️ Languages & tools I Have placed My Hands On
+## 🛠️ Languages & Tools I Have Placed My Hands On
 
 <p align="center">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
@@ -95,11 +95,11 @@
 ## ⭐ Best Repositories
 
 <div align="center">
-  <a href="https://github.com/JoshuaThadi/Data-Science">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=nord" width="48%" />
+  <a href="https://github.com/dffanzm/Data-Science">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dffanzm&repo=Data-Science&theme=nord" width="48%" />
   </a>
-  <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=nord" width="48%" />
+  <a href="https://github.com/dffanzm/Artificial-Intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dffanzm&repo=Artificial-Intelligence&theme=nord" width="48%" />
   </a>
 </div>
 
@@ -130,7 +130,7 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi">
+  <a href="https://tiptap.gg/daffadev">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee">
   </a>
 </p>
