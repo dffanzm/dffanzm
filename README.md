@@ -105,7 +105,11 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 <br>
 
 <div align="center">
-  <img width="800" src="space-shooter.gif" alt="Space Shooter Contribution Game" onerror="this.src='https://github.com/czl9707/gh-space-shooter/raw/main/example.gif'" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dffanzm/dffanzm/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dffanzm/dffanzm/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dffanzm/dffanzm/output/dist/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <br>
