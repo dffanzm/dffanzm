@@ -129,3 +129,11 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdjb2lrMGFqMmNvcWxuc25zZ3VpdTRsOG55bzA0bzIxc3lzdmQ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/97e6IX0kayYTK/giphy.gif" width="800" />
 </div>
+
+<br>
+
+---
+
+<p align="center">
+  <i>This README is uniquely designed by <a href="https://github.com/dffanzm">@dffanzm</a></i>
+</p>
