@@ -94,40 +94,6 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
   <img width="800" src="space-shooter.gif" alt="Space Shooter Contribution Game" onerror="this.src='https://github.com/czl9707/gh-space-shooter/raw/main/example.gif'" />
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/dffanzm">
-    <img src="https://github-readme-stats.vercel.app/api?username=dffanzm&show_icons=true&theme=tokyonight&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000" width="400" />
-  </a>
-</div>
-
-<br>
-
-
-## ⭐ Top Repositories
-
-<div align="center">
-  <a href="https://github.com/dffanzm/Data-Science">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dffanzm&repo=Data-Science&theme=tokyonight&border_radius=10" width="48%" />
-  </a>
-  <a href="https://github.com/dffanzm/Artificial-Intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dffanzm&repo=Artificial-Intelligence&theme=tokyonight&border_radius=10" width="48%" />
-  </a>
-</div>
-
-<br>
-
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://tiptap.gg/daffadev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee">
-  </a>
-</p>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=120&section=footer" />
