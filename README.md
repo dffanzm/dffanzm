@@ -93,5 +93,14 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 <div align="center">
   <img width="800" src="space-shooter.gif" alt="Space Shooter Contribution Game" onerror="this.src='https://github.com/czl9707/gh-space-shooter/raw/main/example.gif'" />
 </div>
+<br>
 
-
+<div align="center">
+  <a href="https://tiptap.gg/daffadev">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="65">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3175wepw2jmdg57r4krtmewf5x7e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3175wepw2jmdg57r4krtmewf5x7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" height="65">
+  </a>
+</div>
