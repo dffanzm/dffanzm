@@ -48,19 +48,30 @@
 
 <br>
 
-## 💫 About Me
+---
 
-<div align="right">
+### 🟪 About me
+
+I am an **Informatics Engineering student** passionate about turning ideas into **working, scalable, and impactful software**.
+
+I work from **backend to mobile**, always prioritizing **clean architecture**, **code quality**, and **real-world impact**.
+
+I am currently building **Mindful Quran**, an Islamic EdTech app designed as a complete product — from backend logic to mobile experience.
+
+- ▶ **Main project:** Mindful Quran — Islamic learning app (Astro + Golang)
+- ▶ **Technical interests:** Mobile development, system architecture, and clean API design
+- ▶ **Currently researching:** AI & Computer Vision — undergraduate thesis
+- ▶ **Beyond code:** Led a 59-person committee for IT FAIR XIV V2 and shipped a gov app to the Play Store
+
+---
+
+<br>
+
+<div align="center">
   <a href="https://github.com/dffanzm">
     <img src="https://github-readme-stats.vercel.app/api?username=dffanzm&show_icons=true&theme=tokyonight&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000" width="400" />
   </a>
 </div>
-
-🔭 I am constantly working on and developing my programming skills.<br>
-🌱 Currently deepening my knowledge in **Backend Architecture** and **AI Models**.<br>
-💬 Proficient in **Python**, **C# (.NET)**, and **SQL**.<br>
-⚡ **Passionate about:** Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, & Blockchain Development.<br>
-✨ I pursue perfection in every line of code I write.
 
 <br>
 
