@@ -48,9 +48,9 @@
 
 <br>
 
----
-
 ### <img src="https://placehold.co/18x18/a970ff/a970ff.png" width="18" height="18" /> About me
+
+<hr>
 
 I am an **Informatics Engineering student** passionate about turning ideas into **working, scalable, and impactful software**.
 
@@ -58,10 +58,10 @@ I work from **backend to mobile**, always prioritizing **clean architecture**, *
 
 I am currently building **Mindful Quran**, an Islamic EdTech app designed as a complete product — from backend logic to mobile experience.
 
-- ▸ **Main project:** Mindful Quran — Islamic learning app (Astro + Golang)
-- ▸ **Technical interests:** Mobile development, system architecture, and clean API design
-- ▸ **Currently researching:** AI & Computer Vision — undergraduate thesis
-- ▸ **Beyond code:** Led a 59-person committee for IT FAIR XIV V2 and shipped a gov app to the Play Store
+- • **Main project:** Mindful Quran — Islamic learning app (Astro + Golang)
+- • **Technical interests:** Mobile development, system architecture, and clean API design
+- • **Currently researching:** AI & Computer Vision — undergraduate thesis
+- • **Beyond code:** Led a 59-person committee for IT FAIR XIV V2 and shipped a gov app to the Play Store
 
 ---
 
