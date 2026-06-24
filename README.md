@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://github.com/dffanzm">
-    <img src="https://komarev.com/ghpvc/?username=dffanzm&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=dffanzm&color=000000&labelColor=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
   </a>
   <a href="https://github.com/dffanzm">
-    <img src="https://img.shields.io/github/followers/dffanzm?color=000000&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/dffanzm?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
   </a>
   <a href="https://github.com/dffanzm/dffanzm">
-    <img src="https://img.shields.io/github/stars/dffanzm/dffanzm?color=000000&style=for-the-badge&logo=github&label=STARS" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/dffanzm/dffanzm?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=STARS" alt="Stars" />
   </a>
 </p>
 
