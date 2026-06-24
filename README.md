@@ -97,10 +97,10 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 
 <div align="center">
   <a href="https://tiptap.gg/daffadev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="65">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify" height="65">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true" alt="Spotify">
   </a>
 </div>
