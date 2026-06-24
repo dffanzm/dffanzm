@@ -106,3 +106,9 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 </div>
 
 <br clear="both" />
+
+<br>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/5b/7f/d4/5b7fd4d80e26d97d284867bad3775fc3.gif" width="800" />
+</div>
