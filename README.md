@@ -50,6 +50,7 @@
 
 🔭 I am constantly working on and developing my programming skills.<br>
 🌱 Currently deepening my knowledge in **Backend Architecture** and **AI Models**.<br>
+🎯 Current focus: **AI Computer Vision**.<br>
 💬 Proficient in **Python**, **C# (.NET)**, and **SQL**.<br>
 ⚡ **Passionate about:** Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, & Blockchain Development.<br>
 ✨ I pursue perfection in every line of code I write.
