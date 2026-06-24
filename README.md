@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/33/2e/1c/332e1cbd6efb86362d4e8510b8e7d690.jpg" width="800" alt="Profile" />
+  <img src="https://i.pinimg.com/736x/33/2e/1c/332e1cbd6efb86362d4e8510b8e7d690.jpg" width="100%" alt="Profile" />
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=250&section=header&text=Daffa%20Najmudin&fontSize=70&fontAlignY=40&desc=Life%20%3D%20Love%3B%20for(Life%20in%20Love)%3A%20print(alive)%20else%3A%20print(live)&descAlignY=62&descAlign=62&fontColor=ffffff&animation=fadeIn" />
 </div>
