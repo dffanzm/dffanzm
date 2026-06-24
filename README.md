@@ -72,12 +72,15 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
   <a href="https://linkedin.com/in/dffanzm">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/dffanzm">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/michaelfaradayyy">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:daffanajmudinhanif@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
