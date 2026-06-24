@@ -25,6 +25,9 @@
   <a href="https://github.com/dffanzm/dffanzm">
     <img src="https://img.shields.io/github/stars/dffanzm/dffanzm?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=STARS" alt="Stars" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Focus-AI%20Computer%20Vision-000000?style=for-the-badge&labelColor=000000&logo=target" alt="Current Focus" />
+  </a>
 </p>
 
 </div>
@@ -50,7 +53,6 @@
 
 🔭 I am constantly working on and developing my programming skills.<br>
 🌱 Currently deepening my knowledge in **Backend Architecture** and **AI Models**.<br>
-🎯 Current focus: **AI Computer Vision**.<br>
 💬 Proficient in **Python**, **C# (.NET)**, and **SQL**.<br>
 ⚡ **Passionate about:** Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, & Blockchain Development.<br>
 ✨ I pursue perfection in every line of code I write.
