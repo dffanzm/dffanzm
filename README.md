@@ -9,7 +9,11 @@
 ---
 
 ### Software Engineering
-<p>Fullstack Developer | AI Engineer | Mobile Developer</p>
+<h3>
+  <code>🚀 Fullstack Developer</code> &nbsp;|&nbsp; 
+  <code>🤖 AI Engineer</code> &nbsp;|&nbsp; 
+  <code>📱 Mobile Developer</code>
+</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Building+Ideas" alt="Typing SVG" />
 
