@@ -95,6 +95,3 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 </div>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=120&section=footer" />
-</div>
