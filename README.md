@@ -37,14 +37,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&redirect=true)
 </div>
 
----
 
-<br>
-
-<div align="center">
-  <img width="800" src="space-shooter.gif" alt="Space Shooter Contribution Game" onerror="this.src='https://github.com/czl9707/gh-space-shooter/raw/main/example.gif'" />
-  <p><i>👾 My GitHub Contribution Space Shooter 🚀</i></p>
-</div>
 
 <br>
 
