@@ -35,7 +35,9 @@
 </p>
 </div>
 
+<br>
 
+---
 
 <br>
 
@@ -51,6 +53,10 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 - • **Technical interests:** Mobile development, system architecture, and clean API design
 - • **Currently researching:** AI & Computer Vision — undergraduate thesis
 - • **Beyond code:** Led a 59-person committee for IT FAIR XIV V2 and shipped a gov app to the Play Store
+
+<br>
+
+---
 
 <br>
 
@@ -93,6 +99,11 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 <div align="center">
   <img width="800" src="space-shooter.gif" alt="Space Shooter Contribution Game" onerror="this.src='https://github.com/czl9707/gh-space-shooter/raw/main/example.gif'" />
 </div>
+
+<br>
+
+---
+
 <br>
 
 <div>
@@ -106,6 +117,10 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 </div>
 
 <br clear="both" />
+
+<br>
+
+---
 
 <br>
 
