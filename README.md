@@ -91,6 +91,12 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 <br>
 
 <div align="center">
+  <img width="800" src="space-shooter.gif" alt="Space Shooter Contribution Game" onerror="this.src='https://github.com/czl9707/gh-space-shooter/raw/main/example.gif'" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/dffanzm">
     <img src="https://github-readme-stats.vercel.app/api?username=dffanzm&show_icons=true&theme=tokyonight&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000" width="400" />
   </a>
@@ -121,11 +127,7 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
   </a>
 </p>
 
-<div align="center">
-  <img width="800" src="space-shooter.gif" alt="Space Shooter Contribution Game" />
-</div>
 
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=120&section=footer" />
