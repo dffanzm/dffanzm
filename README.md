@@ -17,10 +17,13 @@
 
 <p align="center">
   <a href="https://github.com/dffanzm">
-    <img src="https://komarev.com/ghpvc/?username=dffanzm&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=dffanzm&color=000000&style=for-the-badge&label=VIEWS" alt="Profile Views" />
   </a>
   <a href="https://github.com/dffanzm">
-    <img src="https://img.shields.io/github/followers/dffanzm?color=blue&style=flat-square&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/dffanzm?color=000000&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
+  </a>
+  <a href="https://github.com/dffanzm/dffanzm">
+    <img src="https://img.shields.io/github/stars/dffanzm/dffanzm?color=000000&style=for-the-badge&logo=github&label=STARS" alt="Stars" />
   </a>
 </p>
 
@@ -41,7 +44,7 @@
 
 <div align="right">
   <a href="https://github.com/dffanzm">
-    <img src="https://github-readme-stats.vercel.app/api?username=dffanzm&show_icons=true&theme=tokyonight&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=00000000" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dffanzm&show_icons=true&theme=tokyonight&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=000000" width="400" />
   </a>
 </div>
 
