@@ -33,8 +33,6 @@
     <img src="https://img.shields.io/badge/Focus-AI%20Computer%20Vision-000000?style=for-the-badge&labelColor=000000&logo=target" alt="Current Focus" />
   </a>
 </p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lodxfx46kznwfqjrschlrv46p4&redirect=true)
 </div>
 
 
@@ -53,6 +51,16 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 - • **Technical interests:** Mobile development, system architecture, and clean API design
 - • **Currently researching:** AI & Computer Vision — undergraduate thesis
 - • **Beyond code:** Led a 59-person committee for IT FAIR XIV V2 and shipped a gov app to the Play Store
+
+<br>
+
+## 🟪 Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flutter,react,kotlin,ts,js,go,laravel,postgres,redis,mongo,express,tailwind,github,astro,vue,docker,gcp,mysql,nextjs,vite,vscode&perline=11" />
+  </a>
+</p>
 
 ---
 
