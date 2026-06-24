@@ -48,9 +48,7 @@
 
 <br>
 
-### <img src="https://placehold.co/18x18/a970ff/a970ff.png" width="18" height="18" /> About me
-
-<img src="https://placehold.co/1000x1/333333/333333.png" width="100%" />
+## 🟪 About me
 
 I am an **Informatics Engineering student** passionate about turning ideas into **working, scalable, and impactful software**.
 
@@ -63,7 +61,7 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 - • **Currently researching:** AI & Computer Vision — undergraduate thesis
 - • **Beyond code:** Led a 59-person committee for IT FAIR XIV V2 and shipped a gov app to the Play Store
 
-<img src="https://placehold.co/1000x1/333333/333333.png" width="100%" />
+---
 
 <br>
 
