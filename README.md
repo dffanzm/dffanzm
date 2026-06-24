@@ -58,10 +58,10 @@ I work from **backend to mobile**, always prioritizing **clean architecture**, *
 
 I am currently building **Mindful Quran**, an Islamic EdTech app designed as a complete product — from backend logic to mobile experience.
 
-- • **Main project:** Mindful Quran — Islamic learning app (Astro + Golang)
-- • **Technical interests:** Mobile development, system architecture, and clean API design
-- • **Currently researching:** AI & Computer Vision — undergraduate thesis
-- • **Beyond code:** Led a 59-person committee for IT FAIR XIV V2 and shipped a gov app to the Play Store
+- ▸ **Main project:** Mindful Quran — Islamic learning app (Astro + Golang)
+- ▸ **Technical interests:** Mobile development, system architecture, and clean API design
+- ▸ **Currently researching:** AI & Computer Vision — undergraduate thesis
+- ▸ **Beyond code:** Led a 59-person committee for IT FAIR XIV V2 and shipped a gov app to the Play Store
 
 ---
 
