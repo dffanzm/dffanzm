@@ -135,5 +135,12 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 ---
 
 <p align="center">
+  <b>"Talk is cheap. Show me the code."</b><br>
+  Thanks for stopping by! Let's build something awesome together 🚀
+</p>
+
+<br>
+
+<p align="center">
   <i>This README is uniquely designed by <a href="https://github.com/dffanzm">@dffanzm</a></i>
 </p>
