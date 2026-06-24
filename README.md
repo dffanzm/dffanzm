@@ -122,5 +122,11 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 </p>
 
 <div align="center">
+  <img width="800" src="space-shooter.gif" alt="Space Shooter Contribution Game" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=120&section=footer" />
 </div>
