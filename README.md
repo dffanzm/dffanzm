@@ -110,5 +110,5 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 <br>
 
 <div align="center">
-  <img src="cat-hacker.gif" width="400" />
+  <img src="cat-hacker.gif" width="800" />
 </div>
