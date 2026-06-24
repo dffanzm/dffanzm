@@ -68,10 +68,20 @@ I am currently building **Mindful Quran**, an Islamic EdTech app designed as a c
 
 ## 🟪 Drop me a line
 
-- • **Gmail:** [daffanajmudinhanif@gmail.com](mailto:daffanajmudinhanif@gmail.com)
-- • **Instagram:** [@dffanzm](https://instagram.com/dffanzm)
-- • **Discord:** michaelfaradayyy
-- • **LinkedIn:** *Soon*
+<p align="center">
+  <a href="https://linkedin.com/in/dffanzm">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/dffanzm">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discordapp.com/users/michaelfaradayyy">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="mailto:daffanajmudinhanif@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
